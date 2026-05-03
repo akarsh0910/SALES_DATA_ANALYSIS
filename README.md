@@ -88,5 +88,5 @@ This project demonstrates how basic data analysis can provide meaningful insight
 
 ---
 
-## 👨‍💻 Created by-
+## Aurthor-
 Akarsh Singh Sisoudia
